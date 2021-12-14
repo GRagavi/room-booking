@@ -1,0 +1,31 @@
+.primary {
+	color: rgb(10, 8, 4);
+	padding-left: 20%;
+	padding-top: 10%;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.tab {
+	border: 2px solid rgb(0, 7, 8);
+	width: 50%;
+	height: 70%;
+	border: 1px black;
+	background-color: rgb(246, 250, 250);
+	text-align: center;
+	border-collapse: collapse;
+	padding-left: 20%;
+}
+.cell {
+	/* border: 2px solid rgb(0, 7, 8);
+    border-radius: 0; */
+	padding: 3%;
+	float: left;
+}
+.row {
+	border: 1px solid rgba(46, 48, 42, 0.096);
+	border-radius: 0;
+}
+.icon {
+	font-size: 95%;
+	color: rgb(12, 12, 143);
+}

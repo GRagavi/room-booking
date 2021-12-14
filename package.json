@@ -1,0 +1,31 @@
+{
+  "name": "room-booking",
+  "version": "1.0.0",
+  "description": "booking room with minimum one adult in room and max of four persons",
+  "main": "index.js",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arulmani006/room-booking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arulmani006/room-booking/issues"
+  },
+  "homepage": "https://github.com/Arulmani006/room-booking#readme"
+}
